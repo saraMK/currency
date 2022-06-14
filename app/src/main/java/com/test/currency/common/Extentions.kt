@@ -1,0 +1,1 @@
+package com.test.currency.commonimport com.test.currency.common.Constants.IMAGE_URL_WITH_FIXED_SIZEobject Extentions {    fun String.getImageLink():String{        return "${IMAGE_URL_WITH_FIXED_SIZE}${this.toLowerCase()}.png"    }}

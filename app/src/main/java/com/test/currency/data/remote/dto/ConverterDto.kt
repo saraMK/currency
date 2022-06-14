@@ -1,0 +1,1 @@
+package com.test.currency.data.remote.dtoimport com.google.gson.annotations.SerializedNamedata class ConverterDto(@field:SerializedName("id") val id:String,                        @field:SerializedName("to")  val to:String,                        @field:SerializedName("fr")  val from:String,                        @field:SerializedName("val")  val value:Any,) {}
